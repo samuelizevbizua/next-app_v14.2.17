@@ -1,0 +1,1 @@
+// For typescript interface definitions
