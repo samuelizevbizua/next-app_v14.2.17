@@ -1,4 +1,4 @@
-'server only'
+'use server'
 
 export const createUser = async () => {
   return []

@@ -9,6 +9,6 @@ the server or directly from the API routes.
 
 **Important Notes:**
 
-- Most of these files will have the "server only" tag at their top.
+- Most of these files will have the "use server" tag at their top.
 - Data fetching with these functions is recommended to be used on server
   components via async/await.
